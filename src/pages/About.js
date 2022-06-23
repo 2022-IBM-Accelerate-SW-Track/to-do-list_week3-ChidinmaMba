@@ -21,7 +21,7 @@ export default class About extends Component {
             <div className="brief_description">
               My favorite color is green. 
               <br />
-              My favorite move is The Sound of Music.
+              My favorite movie is The Sound of Music.
             </div>
           </div>
         </div>
